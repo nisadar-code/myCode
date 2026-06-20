@@ -1,5 +1,4 @@
-Sys.setenv(http_proxy="http://vdi-proxy.its.sfu.ca:8080")
-Sys.setenv(https_proxy="http://vdi-proxy.its.sfu.ca:8080")
+
 
 install.packages("party")
 
